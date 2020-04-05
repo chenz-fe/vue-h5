@@ -10,9 +10,9 @@
 - 常见移动端开发实践：如 full-page，年度报告 H5
 
 ## demo
-<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/1.png" width = "33%" height = "30%" div align=right/>
-<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/2.png" width = "33%" height = "30%" div align=right/>
-<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/3.png" width = "33%" height = "30%" div align=right/>
+<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/1.png" width = "31%" height = "30%" div align=right/>
+<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/2.png" width = "31%" height = "30%" div align=right/>
+<img src="https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/3.png" width = "31%" height = "30%" div align=right/>
 
 ## Project setup
 ```
