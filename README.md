@@ -9,11 +9,6 @@
 - 常见移动端布局问题处理，主要为机型兼容问题
 - 常见移动端开发实践：如 full-page，年度报告 H5
 
-## demo
-![image](https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/1.png)
-![image](https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/2.png)
-![image](https://raw.githubusercontent.com/dora-zc/vue-h5/master/demo/3.png)
-
 ## Project setup
 ```
 npm install
