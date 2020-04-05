@@ -1,9 +1,8 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <router-link to="/" class="back-btn" v-show="$route.path !== '/'"
+      >back</router-link
+    >
     <router-view />
   </div>
 </template>
@@ -16,4 +15,9 @@
   text-align center
   color #2c3e50
   margin-top 60px
+.back-btn
+  position absolute
+  z-index 2
+  top 5px
+  left 10px
 </style>
