@@ -6,7 +6,7 @@
 - 通过 normalize.css 实现样式初始化
 - 优雅地使用 svg icon
 - 1px 解决方案对比
-- 通过 pre-commit 校验实现图片压缩
+- [pre-commit + imagemin 实现图片自动压缩](https://www.cnblogs.com/dora-zc/p/12643123.html)
 - 全屏布局 Page 组件，可实现纵向布局自适应
 - 常见移动端布局问题处理，主要为机型兼容问题
 - 常见移动端开发实践：如 full-page，年度报告 H5
