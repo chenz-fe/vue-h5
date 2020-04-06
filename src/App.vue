@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <router-link to="/" class="back-btn" v-show="$route.path !== '/'"
-      >back</router-link
-    >
+      ><svg-icon icon-class="back" class-name="back-icon"></svg-icon
+    ></router-link>
     <router-view />
   </div>
 </template>
@@ -22,4 +22,8 @@
   left 10px
 img
   content normal !important
+#app .back-icon
+  width 1.2em
+  height 1.2em
+  margin 10px 0 0 10px
 </style>

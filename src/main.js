@@ -4,6 +4,7 @@ import router from "./router";
 import store from "./store";
 import "normalize.css";
 import VPage from "./base/VPage.vue";
+import "@/icons";
 Vue.component("v-page", VPage);
 
 Vue.config.productionTip = false;
