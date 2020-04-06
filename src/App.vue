@@ -20,4 +20,6 @@
   z-index 2
   top 5px
   left 10px
+img
+  content normal !important
 </style>
