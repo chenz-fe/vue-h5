@@ -2,7 +2,7 @@ const execSync = require("child_process").execSync;
 const path = require("path");
 const imagemin = require("imagemin");
 const imageminPngquant = require("imagemin-pngquant");
-console.log("pre-commit hook start! \n");
+console.log("pre-commit hook start imagemin! \n");
 let diff = getDiffFiles();
 compressPics(diff);
 
