@@ -67,6 +67,7 @@ function compressPics(files) {
       ]
     })
       .then(res => {
+        console.log(res);
         execSync("git add . ");
       })
       .catch(err => {
