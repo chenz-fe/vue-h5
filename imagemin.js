@@ -45,7 +45,6 @@ function compressPics(files) {
   let pngs = files.filter(
     file => file.extName === "png" && ["a", "m"].includes(file.status)
   );
-  console.log(pngs);
   let parentFolder = {};
   pngs.forEach(x => {
     // 根据不同父级目录分类
@@ -67,7 +66,6 @@ function compressPics(files) {
       ]
     })
       .then(res => {
-        console.log(res);
         execSync("git add . ");
       })
       .catch(err => {

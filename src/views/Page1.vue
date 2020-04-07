@@ -23,10 +23,11 @@
       <div>文字文字文字</div>
       <div>文字文字文字</div>
       <div>文字文字文字</div>
-      <div>文字文字文字</div>
     </div>
     <div class="buttom">
-      <button>底部按钮</button>
+      <button>
+        底部按钮&nbsp;<span class="icon iconfont icon-activity"></span>
+      </button>
       <div>底部按钮文字</div>
     </div>
   </v-page>

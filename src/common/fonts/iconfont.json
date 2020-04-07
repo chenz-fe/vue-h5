@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1215319",
+      "name": "activity",
+      "font_class": "activity",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "5343681",
+      "name": "返回",
+      "font_class": "tuanduicankaoxian-",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "13881049",
+      "name": "西红柿.SVG",
+      "font_class": "xihongshiSVG",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13881050",
+      "name": "荷花.SVG",
+      "font_class": "hehuaSVG",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13881051",
+      "name": "配送车.SVG",
+      "font_class": "peisongcheSVG",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "13881052",
+      "name": "菜篮.SVG",
+      "font_class": "cailanSVG",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "13881053",
+      "name": "红萝卜.SVG",
+      "font_class": "hongluobuSVG",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13881054",
+      "name": "谷物.SVG",
+      "font_class": "guwuSVG",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "13881055",
+      "name": "点心.SVG",
+      "font_class": "dianxinSVG",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13881056",
+      "name": "北斗星.SVG",
+      "font_class": "beidouxingSVG",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "13881057",
+      "name": "水稻.SVG",
+      "font_class": "shuidaoSVG",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}

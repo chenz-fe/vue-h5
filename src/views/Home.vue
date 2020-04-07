@@ -20,4 +20,8 @@ export default {
 <style lang="stylus" scoped>
 .home
   justify-content flex-start
+  font-size 28px
+  h3
+    margin 50px 0
+    font-size 40px
 </style>

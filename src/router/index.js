@@ -35,6 +35,18 @@ const routes = [
     name: "Page3",
     component: () =>
       import(/* webpackChunkName: "page3" */ "../views/Page3.vue")
+  },
+  {
+    path: "/page4",
+    name: "Page4",
+    component: () =>
+      import(/* webpackChunkName: "page4" */ "../views/Page4.vue")
+  },
+  {
+    path: "/page5",
+    name: "Page5",
+    component: () =>
+      import(/* webpackChunkName: "page5" */ "../views/Page5.vue")
   }
 ];
 

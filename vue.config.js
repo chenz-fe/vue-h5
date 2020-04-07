@@ -20,5 +20,10 @@ module.exports = {
       .loader("svg-sprite-loader")
       .options({ symbolId: "icon-[name]" })
       .end();
+    config.resolve.alias
+      .set("@", resolve("src"))
+      .set("assets", resolve("src/assets"))
+      .set("components", resolve("src/components"))
+      .set("common", resolve("src/common"));
   }
 };

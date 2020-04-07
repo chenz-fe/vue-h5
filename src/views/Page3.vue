@@ -17,7 +17,7 @@ export default {};
 
 <style lang="stylus" scoped>
 p
-  margin-top 50px
+  margin 50px 0 20px 0
 
 .border-test
   width 100%
